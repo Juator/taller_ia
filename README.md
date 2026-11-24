@@ -74,3 +74,13 @@ Esto supone un tercio de los establecimientos.
 Además llama la atención que bastante más del 50 % siguió igual. Exactamente un 62% y, tan solo un 26 % mejoró
 Llama la atención que los bares y restaurantes tiene la mayor tasa desfavorable (30,20 %). Teniendo en cuenta que son establecimientos de alimentación, es preocupante.
 Como conclusión, en una primera valoración el resultado es elevado
+
+## Conclusiones
+
+- Aunque el 66,7 % de las inspecciones presenta un resultado favorable, resulta significativo que aproximadamente una de cada cuatro tenga una valoración desfavorable, lo que pone de manifiesto la importancia de mantener los controles de seguridad alimentaria.
+
+- Los bares y restaurantes presentan el mayor porcentaje de inspecciones desfavorables (30,2 %), frente al comercio (23,1 %) y los comedores sociales (11,2 %), lo que evidencia diferencias importantes entre los tipos de establecimientos inspeccionados.
+
+- El distrito de Arganzuela destaca con un 62,9 % de inspecciones desfavorables, superando ampliamente la media de Madrid (24 %). Sería interesante analizar si estas diferencias están relacionadas con el tipo de establecimientos inspeccionados y el número de inspecciones realizadas.
+
+- Dado que los datos de 2019 solo abarcan hasta finales de junio, considero necesario tener en cuenta esta limitación temporal al realizar comparaciones entre ambos años.
